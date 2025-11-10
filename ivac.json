@@ -1,0 +1,35 @@
+{
+  "encrypted": "U2FsdGVkX19kZW1vX2VuY3J5cHRpb25fa2V5X2Zvcl9pdmFjX3N5c3RlbQ==",
+  "users": {
+    "dd": {
+      "password": "ZGQ=",
+      "expires": "2025-12-31",
+      "role": "premium",
+      "name": "Demo User 1"
+    },
+    "demo_user2": {
+      "password": "ZGQ=",
+      "expires": "2026-06-30",
+      "role": "premium",
+      "name": "Demo User 2"
+    },
+    "dd": {
+      "password": "ZGQ=",
+      "expires": "2025-11-15",
+      "role": "premium",
+      "name": "Demo User 3"
+    },
+    "dd": {
+      "password": "ZGQ=",
+      "expires": "2025-11-15",
+      "role": "premium",
+      "name": "Demo User 3"
+    },
+    "dd": {
+      "password": "ZGQ=",
+      "expires": "2025-11-15",
+      "role": "premium",
+      "name": "Demo User 3"
+    }
+  }
+}
